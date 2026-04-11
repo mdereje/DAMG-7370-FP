@@ -95,7 +95,7 @@ Run notebooks in `profiling/` folder in order:
 2. `02_dqx_profiling.py` — DQX Profiler with `display()` output for screenshots
 3. `03_violations_analysis.py` — Violations structure analysis for both cities
 
-**Output:** `food_inspections_profiling_report.docx` (pre-generated, add screenshots to Appendix)
+**Output:** `food_inspections_profiling_report.docx`
 
 ### 3. Silver Layer (Cleansed Data)
 
